@@ -1,2 +1,2 @@
 # Data-Analyst
-Includes all projects
+Includes Projects
